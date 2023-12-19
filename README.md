@@ -1,10 +1,10 @@
 # University-Admission-Tracker---Database-System
 
-# # Instructions
+## Instructions
 - User should've downloaded PyQt6 and pyodbc to run this file
 - To run the file click Play Button (Run Python File)
 
-# # How our application works?
+## How our application works?
 - Once user run's python file two options will be displayed Student and Administrator
 - If User selects **Administrator** option s/he will be able to explore the Administrator Functionalities
 - If Admin User is old admin and he has registred before s/he can use his or her credentials to login on our application only then s/he will be able 
