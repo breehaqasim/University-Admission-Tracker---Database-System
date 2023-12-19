@@ -16,6 +16,17 @@ By encompassing these features, this project aims to empower students and stream
 university application process, ultimately helping them find the institutions where they best fit
 and meet the admission requirements.
 
+![Asks user to select user type](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/1.jpg)
+![Student/Admin Login Page](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/2.jpg)
+![Admin Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/4.jpg)
+![Edit University Details](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/5.jpg)
+![Add University](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/6.jpg)
+![Student Registration Form](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/3.jpg)
+![Student Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/8.jpg)
+![Search Universities](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/9.jpg)
+![Display Universities to Student](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/7.jpg)
+![Search Counsellors](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/11.png)
+
 
 ## Instructions
 - User should've downloaded PyQt6 and pyodbc to run this file
