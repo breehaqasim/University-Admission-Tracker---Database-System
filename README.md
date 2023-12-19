@@ -1,7 +1,25 @@
 # University-Admission-Tracker---Database-System
+The University Admission Tracker Database Management System is an ambitious project
+aimed at simplifying the complex process of applying to universities. Its primary scope is to
+create an accessible and user-friendly platform for students to search for universities in a
+specific country and city, while also allowing them to refine their choices based on admission
+criteria such as SAT scores, academic records, and other relevant factors and also can contact
+counselors. This platform is designed to simplify the complex process of exploring and selecting
+universities for students amidst preparations for their boards/CAIE’s. By doing so, it not only
+saves time but also facilitates the process of narrowing down options, making it easier for each
+student to find their ideal university.
+This system aims to provide students with a powerful tool to make informed decisions about
+their higher education journey by offering detailed university profiles that include critical
+information like admission prerequisites, university type, average annual cost of university,
+acceptance rate, application deadlines, campus locations, website link and contact details.
+By encompassing these features, this project aims to empower students and streamline their
+university application process, ultimately helping them find the institutions where they best fit
+and meet the admission requirements.
+
 
 ## Instructions
 - User should've downloaded PyQt6 and pyodbc to run this file
+- Also they shouldve MYSQL software on their desktop run the skeleton sql script provided to you then
 - To run the file click Play Button (Run Python File)
 
 ## How our application works?
