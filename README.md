@@ -50,5 +50,3 @@ Contact Counselors: Access counselor information by selecting the "Contact Couns
 To run the application, simply execute the Python file from your favorite IDE or from the command line:
    ```bash
    python main.py
-
-
