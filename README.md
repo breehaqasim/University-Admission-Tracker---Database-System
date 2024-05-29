@@ -5,7 +5,7 @@ Welcome to the **University Admission Tracker Database Management System**, an i
 ## 🖼️ Screenshots
 Explore the interface and functionality of our application through these screenshots:
 
-![User Type Selection](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/1.jpg)
+<!--![User Type Selection](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/1.jpg)
 ![Login Page](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/2.jpg)
 ![Admin Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/4.jpg)
 ![Edit University Details](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/5.jpg)
@@ -14,6 +14,16 @@ Explore the interface and functionality of our application through these screens
 ![Student Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/8.jpg)
 ![Search Universities](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/9.jpg)
 ![University Details](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/7.jpg)
+![Search Counsellors](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/11.png)-->
+![Asks user to select user type](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/1.jpg)
+![Student/Admin Login Page](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/2.jpg)
+![Admin Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/4.jpg)
+![Edit University Details](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/5.jpg)
+![Add University](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/6.jpg)
+![Student Registration Form](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/3.jpg)
+![Student Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/8.jpg)
+![Search Universities](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/9.jpg)
+![Display Universities to Student](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/7.jpg)
 ![Search Counsellors](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/11.png)
 
 ## 🔧 Setup and Installation
