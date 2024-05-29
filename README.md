@@ -1,54 +1,44 @@
-# University-Admission-Tracker---Database-System
-The University Admission Tracker Database Management System is an ambitious project
-aimed at simplifying the complex process of applying to universities. Its primary scope is to
-create an accessible and user-friendly platform for students to search for universities in a
-specific country and city, while also allowing them to refine their choices based on admission
-criteria such as SAT scores, academic records, and other relevant factors and also can contact
-counselors. This platform is designed to simplify the complex process of exploring and selecting
-universities for students amidst preparations for their boards/CAIE’s. By doing so, it not only
-saves time but also facilitates the process of narrowing down options, making it easier for each
-student to find their ideal university.
-This system aims to provide students with a powerful tool to make informed decisions about
-their higher education journey by offering detailed university profiles that include critical
-information like admission prerequisites, university type, average annual cost of university,
-acceptance rate, application deadlines, campus locations, website link and contact details.
-By encompassing these features, this project aims to empower students and streamline their
-university application process, ultimately helping them find the institutions where they best fit
-and meet the admission requirements.
+# 🎓 University Admission Tracker - Database System
 
-![Asks user to select user type](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/1.jpg)
-![Student/Admin Login Page](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/2.jpg)
+Welcome to the **University Admission Tracker Database Management System**, an innovative project designed to simplify the complex process of applying to universities. This system aims to provide a user-friendly platform where students can search for universities by country and city, refine their choices based on various criteria, and even contact counselors. Whether you are preparing for board exams or CAIEs, our tool helps streamline your search and selection process, making it easier to find your ideal university.
+
+## 🖼️ Screenshots
+Explore the interface and functionality of our application through these screenshots:
+
+![User Type Selection](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/1.jpg)
+![Login Page](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/2.jpg)
 ![Admin Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/4.jpg)
 ![Edit University Details](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/5.jpg)
 ![Add University](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/6.jpg)
 ![Student Registration Form](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/3.jpg)
 ![Student Dashboard](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/8.jpg)
 ![Search Universities](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/9.jpg)
-![Display Universities to Student](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/7.jpg)
+![University Details](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/7.jpg)
 ![Search Counsellors](https://github.com/breehaqasim/University-Admission-Tracker---Database-System/blob/2fe58ed53ec15f5024f17ff857ea88f2239788f8/Prototype/11.png)
 
+## 🔧 Setup and Installation
+To get started with our application, you will need to prepare your environment:
 
-## Instructions
-- User should've downloaded PyQt6 and pyodbc to run this file
-- Also they shouldve MYSQL software on their desktop run the skeleton sql script provided to you then
-- To run the file click Play Button (Run Python File)
+1. Ensure that **PyQt6** and **pyodbc** are installed using pip:
+   ```bash
+   pip install PyQt6 pyodbc
+2. Install MySQL on your system.
+3. Execute the provided SQL script to set up the database schema.
 
-## How our application works?
-- Once user run's python file two options will be displayed Student and Administrator
-- If User selects **Administrator** option s/he will be able to explore the Administrator Functionalities
-- If Admin User is old admin and he has registred before s/he can use his or her credentials to login on our application only then s/he will be able 
-to "Edit University Details" of existing university data
-- Once Admin Logs In Admin Dashboard will appear which will show READ ONLY data of his/her university then s/he can click "Edit Now" button if s/he wishes to edit any detail
-- If Admin User is new admin s/he will have to register on our application, to do so s/he will enter email and password and click "Register" Button to register themselves
-- A new screen will pop up to new admin and now the new admin is supposed to "Add University Details" s/he will then add their university on our database.
-- If User selects **Student** option s/he will be able to explore Student Functionalities
-- If Student has used our application before then s/he will simply need to Login on our application using his or her credentials.
-- If Student has never used our application before then s/he will click "Sign Up" button a "Registration Form" will appear which s/he will have to fill
-- Once student has successfully Logged In/Registred s/he will get access to all functionalities
-- A Student Dashboard will appear
-- A Student can click on "Search University" to search for universities a new screen will appear
-- Student enter the criteria s/he wishes to filter from then once Student clicks "Search Button" Universities will populate in table below
-- Student can click any University then click "View" button a new screen will pop up where the University details will be shown to Student
-- Another feature we are providing to Student is of Searching Counsellors
-- If Student wishes to search for counsellors s/he can return back to Student Dashboard 
-- Now if Student clicks "Contact Counsellors" a new screen will appear where Student can filter by Country, once Student clicks "Search" Button the table will get populated
+## 📚 Features and How to Use
+Our application provides separate functionalities for students and administrators:
+
+For Administrators
+Login/Register: Existing admins can log in using their credentials; new admins can register through the application.
+Dashboard: View and manage university details. Click on "Edit Now" to modify details or "Add University" to include a new institution in the database.
+For Students
+Login/Register: New students must fill out the registration form, while returning students can log in directly.
+Search Universities: Use various filters to narrow down university options. View details by selecting a university and clicking "View".
+Contact Counselors: Access counselor information by selecting the "Contact Counselors" option from the student dashboard.
+
+## 🚀 How to Run
+To run the application, simply execute the Python file from your favorite IDE or from the command line:
+   ```bash
+   python main.py
+
+
