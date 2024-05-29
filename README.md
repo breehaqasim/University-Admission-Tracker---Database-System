@@ -41,6 +41,7 @@ Our application provides separate functionalities for students and administrator
 For Administrators
 Login/Register: Existing admins can log in using their credentials; new admins can register through the application.
 Dashboard: View and manage university details. Click on "Edit Now" to modify details or "Add University" to include a new institution in the database.
+
 For Students
 Login/Register: New students must fill out the registration form, while returning students can log in directly.
 Search Universities: Use various filters to narrow down university options. View details by selecting a university and clicking "View".
